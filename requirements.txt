@@ -1,0 +1,6 @@
+git
+python3
+cowrie
+nmap
+hydra
+arp-scan
