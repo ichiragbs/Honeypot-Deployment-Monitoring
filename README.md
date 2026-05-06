@@ -93,7 +93,7 @@ The project was carried out in the following phases:
 
 ## 📸 Screenshots
 
-*(Add your screenshots in a separate folder and link here)*
+/screenshots/
 
 ---
 
